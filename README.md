@@ -12,3 +12,9 @@ This is a code block. You can create for code syntaxes like JavaScript, HTML, CS
 
 >[!TIP]
 > Use 'git status' often to stay aware of your changes.
+
+## CheckBox Task List
+Syntax:
+- [X] Code
+- [ ] Review
+- [ ] Commit
